@@ -1,14 +1,14 @@
 # Site settings
 # in the templates available like {{ site.myvariable }}.
-title: Clean portfolio theme for Jekyll powered by Bootstrap 4.
+title: Papel Y Diseno
 email: your-email@domain.com
-brand: Your Name
+brand: Papel Y Diseno
 headline: Inventor, Engineer and Futurist
 description: > # this means to ignore newlines until "baseurl:"
-  New Site
+  Papel Y Diseno
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://example.com" # the base hostname & protocol for your site
-copyright: 2016 Whatever Company, Inc. All Rights Reserved.
+url: "http://papelydiseno.com" # the base hostname & protocol for your site
+copyright: 2019 Papel Y Diseno. All Rights Reserved.
 
 # Build settings
 markdown: kramdown
@@ -17,9 +17,9 @@ markdown: kramdown
 snapwidget: 680475
 
 # Contacts
-email: your.name@gmail.com
+email: p a p e l y d i s e n o @ g m a i l . c o m
 phone: +1-800-555-2016
 
 # Tracking
-googleAnalitycsID: UA-83933844-1
+googleAnalitycsID: 
 
