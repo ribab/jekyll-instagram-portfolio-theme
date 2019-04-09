@@ -4,8 +4,16 @@
     <body>
         {% include navbar.html %}
         {% include top.html %}
-        {% include about.html %}
-        {% include instagram.html %}
+
+		<section class="container">
+		  <div class="col-md-6">
+            {% include portfolio.html %}
+		  </div>
+		  <div class="col-md-6">
+		    {{ content }}
+		  </div>
+		</section>
+
         {% include contacts.html %}
         {% include copyright.html %}
         {% include tracking.html %}

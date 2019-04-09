@@ -3,11 +3,12 @@
 title: Site Under Construction
 email: your-email@domain.com
 brand: Papel Y Diseno
-headline: Inventor, Engineer and Futurist
+headline: Invitaciones Personalizadas
 description: > # this means to ignore newlines until "baseurl:"
   Papel Y Diseno
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://papelydiseno.com" # the base hostname & protocol for your site
+#url: "http://papelydiseno.com" # the base hostname & protocol for your site
+url: "localhost:4000"
 copyright: 2019 Papel Y Diseno. All Rights Reserved.
 
 # Build settings
@@ -17,7 +18,7 @@ markdown: kramdown
 snapwidget: 680475
 
 # Contacts
-email: p a p e l y d i s e n o @ g m a i l . c o m
+email: site.email@gmail.com 
 phone: +1-800-555-2016
 
 # Tracking
