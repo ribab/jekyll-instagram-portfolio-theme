@@ -3068,6 +3068,9 @@ button:focus {
 .container-portfolio {
   margin-top: 1rem; }
 
+.portfolio {
+  border-radius: 20px; }
+
 img {
   vertical-align: middle;
   border-style: none;
